@@ -1,0 +1,5 @@
+ipyleaflet
+openai
+python-dotenv
+shiny
+shinywidgets
